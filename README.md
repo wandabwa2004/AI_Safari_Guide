@@ -42,12 +42,13 @@ Launch the Streamlit app the usual way ... `streamlit run ai_safari_agent.py `
 
 📁 Project Structure
 
-AI_Safari_Guide/
+AI_Safari_Guide/<br>
 ├── ai_safari_agent.py <br>
-├── agents_util.py
-├── printer.py
-├── safari_manager.py
-└── requirements.txt
+├── agents_util.py<br>
+├── printer.py<br>
+├── safari_manager.py<br>
+└── requirements.txt<br>
+
 
 
 
