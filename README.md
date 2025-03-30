@@ -43,7 +43,7 @@ Launch the Streamlit app the usual way ... `streamlit run ai_safari_agent.py `
 📁 Project Structure
 
 AI_Safari_Guide/
-├── ai_safari_agent.py 
+├── ai_safari_agent.py <br>
 ├── agents_util.py
 ├── printer.py
 ├── safari_manager.py
